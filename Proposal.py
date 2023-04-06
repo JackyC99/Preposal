@@ -13,7 +13,7 @@ A game where you are a tree owner and your task is to take care of the tree till
 The software will ultize while loops and if statements for different cycles and condition taht may or mnay not occur.A dictionary
 for inputs so that its much easier for the user to give command and to tell the program what to do. I will also be using the
 random import for the probability and the growth of the tree. And maybe add a probability for
-the tree to die under certain conditions.And also using turtle to give a visual of how tall the tree is.
+the tree to die under certain conditions.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -51,5 +51,5 @@ how much the tree grow each day by using different the random function that dete
 
 If those are done before due date:
 -A difficulty selection that determines if you want to add weather into play here or not which may increase or decrased certain bars, it may also add new bars and new task to worry about
--a turtle function for visual
+
 TODO
